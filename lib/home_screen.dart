@@ -156,7 +156,7 @@ class HomeScreen extends StatelessWidget {
                               mainAxisAlignment: MainAxisAlignment.end,
                               children: [
                                 Text(
-                                  "Propreitor",
+                                  "Proprietor",
                                   style: TextStyle(
                                     color: Colors.black,
                                     fontSize: 12,
